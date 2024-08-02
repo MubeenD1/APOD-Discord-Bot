@@ -37,3 +37,9 @@ This Discord bot retrieves NASA's Astronomy Picture of the Day (APOD) using the 
     ```sh
     python3 app.py
     ```
+
+## Command Usage
+
+- '~apod': to prompt the bot to return the picture from Nasa's api APOD endpoint
+- '~apod' + '~explanation': to prompt the bot to return the APOD picture as well as the accompanying explanation from Nasa's api
+- '~hey' / 'hello': to prompt the bot to greet you back :)
